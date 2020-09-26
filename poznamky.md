@@ -1,8 +1,8 @@
-# TODO
-* `git config user.name` a `git config user.email` na začátku, jinak nemůžem commitovat
+# TODODODODO
+* `git config user.name` a `git config user.email` na začátku, jynak nemůžem commytovat
 
 # Thoughts/Když zbyde čas
-* Víc do hloubky o větvích
+* Vyc do hloubky o větvych
 * `git log` - reference na větve?
-* Vysvětlit symbolické reference?
-* Vysvětlit reference na předky (^, ~)?
+* Visvětlit simbolické reference?
+* Visvětlit reference na předki (^, ~)?
